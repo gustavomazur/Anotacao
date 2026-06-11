@@ -49,7 +49,7 @@ Comando:  spring.profiles.active=docker
 ```
 
 > O container do MySQL precisa estar rodando para API iniciar 
-> E se for rodar com MySQL local MySQL precisa estar rodando também.
+> E se for rodar com MySQL local o MySQL precisa estar rodando também.
 
 ---
 
