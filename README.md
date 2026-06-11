@@ -64,7 +64,7 @@ Comando:  spring.profiles.active=docker
 
 Essa não foi uma dor real minha. Criei esse projeto com a ideia de um amigo meu que fez um projeto parecido. Então pensei: será que consigo consumir uma API de IA pra fazer um agente assim? Foi aí que me desafiei.
 
-O projeto **front-end** está no meu repositório também, com o nome **Projeto-Anotação**, pra você conseguir consumir essa API.
+O projeto **front-end**: https://github.com/gustavomazur/Front-end-anota-o
 
 ### Funcionalidades
 
