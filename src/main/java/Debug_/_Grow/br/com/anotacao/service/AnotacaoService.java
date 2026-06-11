@@ -17,6 +17,7 @@ import org.springframework.stereotype.Service;
 public class AnotacaoService {
 
     private final AnotacaoRepository anotacaoRepository;
+
     private final AnotacaoMapper anotacaoMapper;
 
     public AnotacaoService(AnotacaoRepository anotacaoRepository, AnotacaoMapper anotacaoMapper) {
