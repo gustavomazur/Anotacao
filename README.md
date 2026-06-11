@@ -3,7 +3,6 @@
 ## Pré-requisitos
 
 - Java 17+
-- Maven
 - Docker (apenas para o modo container)
 
 ---
@@ -29,9 +28,8 @@ O Spring Boot carrega o `.env` automaticamente.
 
 ```bash
 Rodar a API 
-colocar esse comando no terminal
-ou no aplication.properties e roda no AnotacaoApplication
-Comando: mvn spring-boot:run -Dspring.profiles.active=local
+Colocar comando no aplication.properties e roda no AnotacaoApplication
+Comando:   spring.profiles.active=local    
 ```
 
 ---
@@ -46,9 +44,8 @@ Rodar API
 docker compose up -d
 
 # Roda a aplicação
-colocar comando no terminal do intellij
-ou colocar no no Application.properties e roda API pelo AnotacaoApplication
-Comando: mvn spring-boot:run -Dspring.profiles.active=docker
+colocar comando no Application.properties e roda API pelo AnotacaoApplication
+Comando:  spring.profiles.active=docker 
 ```
 
 > O container do MySQL precisa estar rodando para API iniciar 
