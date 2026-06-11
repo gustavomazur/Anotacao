@@ -9,7 +9,7 @@
 
 ## Configuração
 
-Crie um arquivo `.env` na raiz do projeto (já existe) com:
+Crie um arquivo `.env` na raiz do projeto com:
 
 ```env
 DB_USERNAME=Seu_login
